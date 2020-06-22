@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "name": "sdf",
+      "surname": "fs",
+      "patr": "fsd",
+      "otd": "IT-отдел",
+      "id": 1
+    },
+    {
+      "name": "Роза",
+      "surname": "Позднякова",
+      "patr": "Кириллловна",
+      "otd": "IT-отдел",
+      "id": 2
+    },
+    {
+      "name": "e",
+      "surname": "e",
+      "patr": "e",
+      "otd": "отдел продаж",
+      "id": 3
+    },
+    {
+      "name": "fs",
+      "surname": "",
+      "phone": "",
+      "star": false,
+      "id": 4
+    },
+    {
+      "name": "",
+      "surname": "",
+      "patr": "",
+      "otd": "",
+      "id": 5
+    }
+  ]
+}
